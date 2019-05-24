@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">藍毗尼佛陀聖地</string>
+    <string name="Username">請輸入澮員名</string>
+    <string name="Password">請輸入密碼</string>
+    <string name="about_us">關於我們</string>
+    <string name="font">更換語言</string>
+    <string name="update">版本更新</string>
+    <string name="clear_cache">清除緩存</string>
+    <string name="setting">設置</string>
+    <string name="login_out">退出登錄</string>
+    <string name="select_language">請選擇語言</string>
+    <string name="error">掃描錯誤</string>
+    <string name="load_again">點擊重新加載</string>
+    <string name="ok">確定</string>
+    <string name="skip">跳過</string>
+    <string name="new_update">有新版本：</string>
+    <string name="has_update">檢測到更新</string>
+    <string name="now_update">立即\n升級</string>
+    <string name="after">以後再說</string>
+    <string name="cancel_down">下載已取消</string>
+    <string name="load">加載中...</string>
+    <string name="history">歷史善款總額：</string>
+    <string name="history_total">歷史愛心總人次：</string>
+    <string name="plan">項目計劃/Project Plan</string>
+    <string name="no_username">還沒有賬號？</string>
+    <string name="register">立即註冊</string>
+    <string name="forget_password">忘記密碼</string>
+    <string name="login">立即登錄</string>
+    <string name="high_update">當前已是最新版本</string>
+    <string name="clear1">已清理</string>
+    <string name="clear2">緩存</string>
+    <string name="no_cache">暫無緩存文件</string>
+    <string name="careful">提示：</string>
+    <string name="out">確定要退出？</string>
+    <string name="cancel">取消</string>
+    <string name="high_update1">已是最新版：</string>
+    <string name="pay_result_callback_msg" formatted="false">微信支付结果：%s</string>
+    <string name="aim_username">目标用户名</string>
+    <string name="receive_ma">获取验证码</string>
+    <string name="encode_qrcode">生成二维码</string>
+    <string name="dencode_qrcode">扫描二维码</string>
+    <string name="code_text">请输入生成二维码的文本信息</string>
+    <string name="qrcodetext">这里显示扫描结果</string>
+    <string name="sys">系統提示</string>
+    <string name="tinker_content">檢查到系統已更新，重啟應用立即生效！</string>
+    <string name="reload1">稍後重啟</string>
+    <string name="reload2">立即重啟</string>
+
+
+    <!-- Gesture login activity -->
+    <string name="gesture_forget_gesture">忘记手势密码</string>
+    <string name="gesture_default">请输入手势密码</string>
+    <string name="gesture_error">手势密码输入错误</string>
+    <string name="gesture_correct">输入正确</string>
+
+    <!-- Create gesture activity -->
+    <string name="create_gesture_activity">CreateGestureActivity</string>
+    <string name="create_gesture_default">绘制解锁图案</string>
+    <string name="create_gesture_correct">再次绘制解锁图案</string>
+    <string name="create_gesture_less_error">至少连接4个点，请重新输入</string>
+    <string name="create_gesture_confirm_error">与上一次绘制不一致，请重新绘制</string>
+    <string name="create_gesture_confirm_correct">设置成功</string>
+    <string name="create_gesture_reset">重新设置</string>
+</resources>
+
+
